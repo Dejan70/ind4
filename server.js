@@ -96,6 +96,6 @@ app.post('/sav',(req,res) => {
              })
 /*
 app.listen(1880,() => {
-      console.log('listening to port 1880');
+      console.log('listening to port 80');
                })
                */
