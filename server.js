@@ -1,4 +1,5 @@
-const HTTP_PORT = 1880;
+//const HTTP_PORT = 1880;
+const HTTP_PORT = 80;
 //require('child_process').fork('some_code.js');  //   call stream
 //require('child_process').fork('express-app.js'); 
 let app    = require('express')();
